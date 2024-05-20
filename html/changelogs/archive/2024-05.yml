@@ -191,3 +191,6 @@
   - rscadd: Ports TG Drinks
   yyzsong:
   - rscadd: adds thermal tarps to valhalla (marine weapons vendor, specialist tab)
+2024-05-20:
+  yyzsong:
+  - rscdel: Xenos evolution fade-in effect removed
